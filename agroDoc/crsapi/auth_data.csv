@@ -1,0 +1,77 @@
+zone,soil,n,p,k,crop
+western himalayan region,"alluvial,brown",4,2,1,rice(k)
+western himalayan region,"alluvial,brown",6,2,1,wheat
+western himalayan region,"alluvial,brown",4,2,1,rice
+western himalayan region,"alluvial,brown",5,2,0,wheat
+eastern himalayan region,"alluvial,brown,red,tarai",4,2,2,rice(k)
+eastern himalayan region,"alluvial,brown,red,tarai",4,2,2,rice(r)
+lower gangetic plain region,"alluvial,red",4,2,2,rice(k)
+lower gangetic plain region,"alluvial,red",6,2,2,wheat
+middle gangetic plain region,"alluvial,red,black",4,2,2,rice(k)
+middle gangetic plain region,"alluvial,red,black",4,2,1.3,wheat
+middle gangetic plain region,"alluvial,red,black",4.5,1.5,1,sugarcane
+middle gangetic plain region,"alluvial,red,black",6,2,1,rice(k)
+middle gangetic plain region,"alluvial,red,black",6,3,1,wheat
+middle gangetic plain region,"alluvial,red,black",5,2.8,2,sugarcane
+upper gangetic plain region,alluvial,5,2,2,rice(k)
+upper gangetic plain region,alluvial,5,2,2,wheat
+upper gangetic plain region,alluvial,5,2,2,sugarcane
+upper gangetic plain region,alluvial,6,2,3,potato
+trans gangetic plain region,alluvial,4,1,1,rice(k)
+trans gangetic plain region,alluvial,4,2,1,wheat
+trans gangetic plain region,alluvial,5,2,2,sugarcane
+trans gangetic plain region,alluvial,3,1,0,cotton
+trans gangetic plain region,alluvial,7,2,1,mustard
+trans gangetic plain region,alluvial,4,1,1,rice(k)
+trans gangetic plain region,alluvial,4,2,1,wheat
+trans gangetic plain region,alluvial,4,2,0,p.millet
+trans gangetic plain region,alluvial,5,2.7,0,wheat
+trans gangetic plain region,alluvial,3,1,0,sugarcane
+trans gangetic plain region,alluvial,5,2,2,cotton
+eastern plateau and hills region,"red,yellow,black",4,2,3,rice(k)
+eastern plateau and hills region,"red,yellow,black",1,3,1,pulses
+eastern plateau and hills region,"red,yellow,black",4,2,1,maize
+eastern plateau and hills region,"red,yellow,black",5,2,1,wheat
+eastern plateau and hills region,"red,yellow,black",4,2,1.3,rice
+central plateau and hills region,"alluvial,black",1,3,1,soybean
+central plateau and hills region,"alluvial,black",4,2.1,3,wheat
+central plateau and hills region,"alluvial,black",4,3,1,wheat
+central plateau and hills region,"alluvial,black",4,2,2,sorghum
+central plateau and hills region,"alluvial,black",4,2,2,wheat
+central plateau and hills region,"alluvial,black",4,2,2,cotton
+western plateau and hills region,"black,red",4,2,2,cotton
+western plateau and hills region,"black,red",2.2,2.1,1,sugarcane
+southern plateau and hills region,"red,alluvial,black",4,2,2,rice(k)
+southern plateau and hills region,"red,alluvial,black",4,2,2,rice(r)
+southern plateau and hills region,"red,alluvial,black",0.9,0.8,1,sugarcane
+southern plateau and hills region,"red,alluvial,black",4,2,2,cotton
+southern plateau and hills region,"red,alluvial,black",2,2,1,sunflower
+southern plateau and hills region,"red,alluvial,black",2.5,3,1,sunflower
+southern plateau and hills region,"red,alluvial,black",3,1.5,1,rice(k)
+southern plateau and hills region,"red,alluvial,black",1.3,0.4,1,sugarcane
+southern plateau and hills region,"red,alluvial,black",4,2,2,cotton
+southern plateau and hills region,"red,alluvial,black",4,6,4,sunflower
+southern plateau and hills region,"red,alluvial,black",4,2,2,rice(k)
+southern plateau and hills region,"red,alluvial,black",5,2,2,rice(r)
+southern plateau and hills region,"red,alluvial,black",3.5,1,2,sugarcane
+southern plateau and hills region,"red,alluvial,black",4,2,2,cotton
+southern plateau and hills region,"red,alluvial,black",5,6,4,sunflower
+southern plateau and hills region,"red,alluvial,black",4,6,4,sunflower
+east coast plains and hills region,"red,black,coastal",4,2,2,rice(k)
+east coast plains and hills region,"red,black,coastal",5.2,2.5,2,rice(r)
+east coast plains and hills region,"red,black,coastal",3,2,1,rice(k)
+east coast plains and hills region,"red,black,coastal",6,3,2,rice(r)
+east coast plains and hills region,"red,black,coastal",5,2,2,rice(k)
+west coast plains and ghat region,"red,coastal",4,2,2,rice(k)
+west coast plains and ghat region,"red,coastal",4,2,2,rice(r)
+west coast plains and ghat region,"red,coastal",4,2,1.3,rice(k)
+west coast plains and ghat region,"red,coastal",4,2,1.3,rice(r)
+gujarat plains and hills region,"red,black",1,1.6,0,groundnut
+gujarat plains and hills region,"red,black",4,2,0,wheat
+gujarat plains and hills region,"red,black",4,2,0,cotton
+gujarat plains and hills region,"red,black",4,1.1,0,cotton
+western dry region,"red,brown,dessert",3,1,0,p.millet
+western dry region,"red,brown,dessert",3,1,0,wheat
+western dry region,"red,brown,dessert",7.5,2,1,cotton
+western dry region,"red,brown,dessert",4,1.2,1.2,sugarcane
+island region,coastal,4,2.1,3,rice(k)
